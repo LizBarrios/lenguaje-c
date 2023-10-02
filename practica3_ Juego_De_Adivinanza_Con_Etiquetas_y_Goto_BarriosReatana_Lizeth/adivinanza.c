@@ -1,3 +1,9 @@
+/*
+Nombre del archivo: adivinanza.c
+Autor: Lizeth Barrios Retana
+Fecha de creación:  de Agosto de 2023
+Descripción: 
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
