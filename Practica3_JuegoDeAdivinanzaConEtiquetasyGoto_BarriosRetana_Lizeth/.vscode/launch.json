@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practica3_ Juego_De_Adivinanza_Con_Etiquetas_y_Goto_BarriosReatana_Lizeth",
-      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practica3_ Juego_De_Adivinanza_Con_Etiquetas_y_Goto_BarriosReatana_Lizeth/build/Debug/outDebug",
+      "cwd": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/Practica3_JuegoDeAdivinanzaConEtiquetasyGoto_BarriosRetana_Lizeth",
+      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/Practica3_JuegoDeAdivinanzaConEtiquetasyGoto_BarriosRetana_Lizeth/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
