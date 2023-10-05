@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/examen",
-      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/examen/build/Debug/outDebug",
+      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/examen/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
